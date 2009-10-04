@@ -9,6 +9,8 @@ namespace Tuluat.Domain.Parser.Common.Nodes
 {
     public class CheckNode : AstNode, IWatinCodeGenerator
     {
+        public CheckNode(NodeArgs args) : base(args) { }
+
         public string GetCode()
         {
             return "";
