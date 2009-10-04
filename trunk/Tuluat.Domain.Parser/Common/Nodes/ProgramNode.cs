@@ -9,6 +9,11 @@ namespace Tuluat.Domain.Parser.Common.Nodes
 {
     public class ProgramNode : AstNode, IWatinCodeGenerator
     {
+        public ProgramNode(NodeArgs args) : base(args) { }
 
+        public string GetCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
