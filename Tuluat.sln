@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Web", "Tuluat.Web\Tuluat.Web.csproj", "{0E3DEE2E-A8C5-4A05-97D7-DD825F0850AB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Domain", "Tuluat.Domain\Tuluat.Domain.csproj", "{107429D3-01EE-4792-BB30-68BA5328DDB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Domain.Parser", "Tuluat.Domain.Parser\Tuluat.Domain.Parser.csproj", "{82A27F82-03C0-4B91-A8F5-DE85B7376A72}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Domain.Generator", "Tuluat.Domain.Generator\Tuluat.Domain.Generator.csproj", "{C3D247EB-A193-4CF6-AA2D-9CE6D6C8D4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Front", "Tuluat.Front\Tuluat.Front.csproj", "{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E3DEE2E-A8C5-4A05-97D7-DD825F0850AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E3DEE2E-A8C5-4A05-97D7-DD825F0850AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E3DEE2E-A8C5-4A05-97D7-DD825F0850AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E3DEE2E-A8C5-4A05-97D7-DD825F0850AB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{107429D3-01EE-4792-BB30-68BA5328DDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{107429D3-01EE-4792-BB30-68BA5328DDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107429D3-01EE-4792-BB30-68BA5328DDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,6 +27,10 @@ Global
 		{C3D247EB-A193-4CF6-AA2D-9CE6D6C8D4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3D247EB-A193-4CF6-AA2D-9CE6D6C8D4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3D247EB-A193-4CF6-AA2D-9CE6D6C8D4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
