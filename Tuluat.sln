@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Domain.Generator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Front", "Tuluat.Front\Tuluat.Front.csproj", "{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuluat.Domain.Parser.Tests", "Tuluat.Domain.Parser.Tests\Tuluat.Domain.Parser.Tests.csproj", "{8E563BA1-C8A8-494B-9846-2D4DD21E2EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B66A6E5-7EAA-4902-B9C2-3913E1C81138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E563BA1-C8A8-494B-9846-2D4DD21E2EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E563BA1-C8A8-494B-9846-2D4DD21E2EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E563BA1-C8A8-494B-9846-2D4DD21E2EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E563BA1-C8A8-494B-9846-2D4DD21E2EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
