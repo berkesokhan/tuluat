@@ -19,7 +19,7 @@ namespace Tuluat.Domain.Parser.Tests
         public void OpenNode_Creates_ValidWatinCode()
         {
             var mockNodeArgs = new Mock<NodeArgs>();
-            mockNodeArgs.Expe
+            //mockNodeArgs.Expe
 
             //OpenNode node = new OpenNode(
         }
