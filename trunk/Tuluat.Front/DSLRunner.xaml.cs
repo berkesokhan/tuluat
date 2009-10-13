@@ -26,7 +26,7 @@ namespace Tuluat.Front
 
         private void btnValidate_Click(object sender, RoutedEventArgs e)
         {
-            txtTuluatDSL.Text
+            //txtTuluatDSL.Text
         }
     }
 }
