@@ -61,6 +61,12 @@
     <Compile Include="OpenNodeTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tuluat.Domain.Parser\Tuluat.Domain.Parser.csproj">
+      <Project>{82A27F82-03C0-4B91-A8F5-DE85B7376A72}</Project>
+      <Name>Tuluat.Domain.Parser</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
