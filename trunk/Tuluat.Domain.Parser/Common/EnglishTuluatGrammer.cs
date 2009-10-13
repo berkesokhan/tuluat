@@ -18,14 +18,14 @@ namespace Tuluat.Domain.Parser.Common
             this.CaseSensitive = false;
 
             // define all the non-terminals
-            var program = new NonTerminal("", typeof(ProgramNode));
-            var statementList = new NonTerminal("", typeof(StatementListNode));
+            NonTerminal program = new NonTerminal("", typeof(ProgramNode));
+            NonTerminal statementList = new NonTerminal("", typeof(StatementListNode));
 
-            var open = new NonTerminal("open", typeof(OpenNode));
-            var check = new NonTerminal("check", typeof(CheckNode));
-            var enter = new NonTerminal("enter", typeof(CheckNode));
-            var click = new NonTerminal("click", typeof(ClickNode));
-            var select = new NonTerminal("select", typeof(SelectNode));
+            NonTerminal open = new NonTerminal("open", typeof(OpenNode));
+            NonTerminal check = new NonTerminal("check", typeof(CheckNode));
+            NonTerminal enter = new NonTerminal("enter", typeof(CheckNode));
+            NonTerminal click = new NonTerminal("click", typeof(ClickNode));
+            NonTerminal select = new NonTerminal("select", typeof(SelectNode));
 
             //var statementList = new NonTerminal("statementList", typeof(StatementListNode));
             //var freightDeclaration = new NonTerminal("freightDeclaration", typeof(FreightDeclarationNode));
