@@ -1,5 +1,0 @@
-D:\CodeBase\Tuluat\Tuluat.Domain\bin\Debug\Tuluat.Domain.dll
-D:\CodeBase\Tuluat\Tuluat.Domain\bin\Debug\Tuluat.Domain.pdb
-D:\CodeBase\Tuluat\Tuluat.Domain\obj\Debug\ResolveAssemblyReference.cache
-D:\CodeBase\Tuluat\Tuluat.Domain\obj\Debug\Tuluat.Domain.dll
-D:\CodeBase\Tuluat\Tuluat.Domain\obj\Debug\Tuluat.Domain.pdb

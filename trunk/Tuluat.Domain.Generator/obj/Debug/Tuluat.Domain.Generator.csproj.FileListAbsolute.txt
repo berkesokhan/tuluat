@@ -1,5 +1,0 @@
-D:\CodeBase\Tuluat\Tuluat.Domain.Generator\bin\Debug\Tuluat.Domain.Generator.dll
-D:\CodeBase\Tuluat\Tuluat.Domain.Generator\bin\Debug\Tuluat.Domain.Generator.pdb
-D:\CodeBase\Tuluat\Tuluat.Domain.Generator\obj\Debug\ResolveAssemblyReference.cache
-D:\CodeBase\Tuluat\Tuluat.Domain.Generator\obj\Debug\Tuluat.Domain.Generator.dll
-D:\CodeBase\Tuluat\Tuluat.Domain.Generator\obj\Debug\Tuluat.Domain.Generator.pdb
